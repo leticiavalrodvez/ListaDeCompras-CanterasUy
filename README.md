@@ -6,3 +6,6 @@ Al ingresar podrá ver un menú.
 Si selecciona alguna opción, lo redireccionará a otra página.
 * En el caso de Lista de compra, podrá ver una lista pre-diseñada de comestibles.
 * En caso de seleccionar Cuentas, podrá ver datos guardados de un usuario.
+
+## Link de página en Git-Pages
+https://leticiavalrodvez.github.io/ListaDeCompras-CanterasUy/
